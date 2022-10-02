@@ -77,3 +77,21 @@ ul li:nth-child(7) {
   background: #673ab7;
   box-shadow: 0 0 50px #673ab7;
 }
+
+ul li:nth-child(8) {
+  animation-delay: -0.0s;
+  background: #ffff00;
+  box-shadow: 0 0 50px #ffff00;
+}
+
+ul li:nth-child(9) {
+  animation-delay: +.2s;
+  background: #76ff03;
+  box-shadow: 0 0 50px #76ff03;
+}
+
+ul li:nth-child(10) {
+  animation-delay: ;
+  background: #f06292;
+  box-shadow: 0 0 50px #f06292;
+}
