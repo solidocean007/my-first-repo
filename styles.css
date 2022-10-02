@@ -91,7 +91,7 @@ ul li:nth-child(9) {
 }
 
 ul li:nth-child(10) {
-  animation-delay: ;
+  animation-delay: .4;
   background: #f06292;
   box-shadow: 0 0 50px #f06292;
 }
